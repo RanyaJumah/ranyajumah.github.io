@@ -59,7 +59,7 @@ img {
 }
 
 hr {
-  margin:60px auto;
+  margin:10px auto;
   width:50%;
   border-color: {{ site.colors.black }};
 }
@@ -87,9 +87,9 @@ hr {
   position: relative;
   height: 0;
   overflow: hidden;
-  padding-bottom: 56.25%; /* keep 16x9 Aspect Ratio */
+  padding-bottom: 20%; /* keep 16x9 Aspect Ratio */
 }
-.i4x3 { padding-bottom: 75.00%; } /* keep 4x3 Aspect Ratio */
+.i4x3 { padding-bottom: 30.00%; } /* keep 4x3 Aspect Ratio */
 .icontain iframe {
   position: absolute;
   top:0;
@@ -170,18 +170,18 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
+  padding:50px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 20px;
 }
 
 
 #footer {
-  padding: 8px 0;
+  padding: 2px 0;
   min-height:0;
   text-align:center;
   background-color:#2e2e2e;
