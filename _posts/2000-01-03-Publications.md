@@ -2,7 +2,6 @@
 title: "Publications"
 bg: orange
 color: black
-fa-icon: toggle-on
 ---
 
 
