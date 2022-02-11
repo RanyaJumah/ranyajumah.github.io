@@ -14,9 +14,9 @@ color: black
      <div id="paper1" class="collapse text-justify" style="padding: 15px">
      text.
      </div>
-    </p>
     <a href="https://arxiv.org/abs/2007.15064" class="card-link">Paper</a>
     <a href="https://github.com/RanyaJumah/Emotionless_Privacy_Preserving_Speech_Analysis" class="card-link">Code</a>
+    </p>
   </div>
 </div>
 
