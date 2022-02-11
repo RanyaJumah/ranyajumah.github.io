@@ -6,7 +6,7 @@ color: black
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
 
 <div class="card">
-  <div class="card-header" style="color:Purple; font-size:300%;"> Preprints </div>
+  <div class="card-header" style="color:Purple; font-size:20%;"> Preprints </div>
   <div class="card-body">
     <h6 class="card-title"> &#9673; A Tandem Framework Balancing Privacy and Security for Voice User Interfaces </h6>
     2022 - Preprint (Under Review).
@@ -21,7 +21,7 @@ color: black
   </div>
   
   
-  <div class="card-header" style="color:Purple; font-size:300%;"> Publications </div>
+  <div class="card-header" style="color:Purple; font-size:20%;"> Publications </div>
   <div class="card-body">
     <h6 class="card-title"> &#9673; EDGY: On-device Paralinguistic Privacy Protection </h6>
     2021 - Proceedings of the 12th ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop, ACM MobiCom'21.
