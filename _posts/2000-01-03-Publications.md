@@ -11,6 +11,7 @@ color: black
     <h6 class="card-title"> &#9673; EDGY: on-device paralinguistic privacy protection </h6>
     <a href="https://dl.acm.org/doi/abs/10.1145/3477087.3478382" class="card-link">[Paper]</a>
     <a href="https://github.com/RanyaJumah/EDGY" class="card-link">[Code]</a>  
+    <br>
     <span>&bull;</span> (2021) Proceedings of the 12th ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop, ACM MobiCom '21.
   </div>
   
