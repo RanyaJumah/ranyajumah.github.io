@@ -6,13 +6,15 @@ color: black
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
 
 <div class="card">
-  <div class="card-header"> Publications {: .text-purple} </div>
+  <div class="card-header"> Publications </div>
   <div class="card-body">
-    <h7 class="card-title"> &#9673; Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants</h7>
-    <a href="https://arxiv.org/abs/2007.15064" class="card-link">Paper</a>
-    <a href="https://github.com/RanyaJumah/Emotionless_Privacy_Preserving_Speech_Analysis" class="card-link">Code</a>
-    {: .text-purple}
+    <h6 class="card-title"> &#9673; EDGY: on-device paralinguistic privacy protection </h6>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3477087.3478382" class="card-link">[Paper]</a>
+    <a href="https://github.com/RanyaJumah/EDGY" class="card-link">[Code]</a>  
+    <span>&bull;</span> (2021) Proceedings of the 12th ACM Wireless of the Students, by the Students, and for the Students (S3) Workshop, ACM MobiCom '21.
   </div>
+  
+  
 </div>
 
 
