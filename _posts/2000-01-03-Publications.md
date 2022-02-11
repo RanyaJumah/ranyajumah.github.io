@@ -5,8 +5,7 @@ color: black
 ---
 ### **Preprints**
 {: .text-purple}
-&#9673; 2022 - A Tandem Framework Balancing Privacy and Security for Voice User Interfaces, 
-- (Under Review), ([Paper](https://arxiv.org/pdf/2107.10045.pdf), [Code](https://github.com/RanyaJumah/EDGY)). 
+&#9673; 2022 - A Tandem Framework Balancing Privacy and Security for Voice User Interfaces, (Under Review), ([Paper](https://arxiv.org/pdf/2107.10045.pdf), [Code](https://github.com/RanyaJumah/EDGY)). 
 <br>
 &#9673; 2021 - Paralinguistic Privacy Protection at the Edge, (Under Review), ([Paper](https://arxiv.org/pdf/2011.02930.pdf), [Code](https://github.com/RanyaJumah/EDGY)).
 <br>
