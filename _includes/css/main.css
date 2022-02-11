@@ -41,8 +41,8 @@ code, pre {
 pre code { background: none; display: block; }
 pre {
   display: block;
-  margin: 5px 1%;
-  padding: 2px 4px;
+  margin: 20px 5%;
+  padding: 4px 8px;
   background: rgba(255,255,255,0.1);
   word-wrap: break-word;
 }
@@ -59,7 +59,7 @@ img {
 }
 
 hr {
-  margin:10px auto;
+  margin:60px auto;
   width:50%;
   border-color: {{ site.colors.black }};
 }
@@ -69,17 +69,17 @@ hr {
 .left, .container .left { text-align: left; }
 
 .container h1, .container h2, .container h3, .container h4 {
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   text-align: center;
-  padding: 0 1%;
+  padding: 0 4%;
 }
 .container p, .container ol, .container ul {
   font-size: 17px;
-  padding: 0 1%;
+  padding: 0 5%;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
-    margin-top: 10px;
+    margin-top: 40px;
 }
 
 /* keep embedded videos fluid! */
@@ -87,9 +87,9 @@ hr {
   position: relative;
   height: 0;
   overflow: hidden;
-  padding-bottom: 20%; /* keep 16x9 Aspect Ratio */
+  padding-bottom: 56.25%; /* keep 16x9 Aspect Ratio */
 }
-.i4x3 { padding-bottom: 30.00%; } /* keep 4x3 Aspect Ratio */
+.i4x3 { padding-bottom: 75.00%; } /* keep 4x3 Aspect Ratio */
 .icontain iframe {
   position: absolute;
   top:0;
@@ -170,18 +170,18 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:50px 0;
+  padding:210px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
 .section:first-of-type {
-    padding-top: 20px;
+    padding-top: 140px;
 }
 
 
 #footer {
-  padding: 2px 0;
+  padding: 8px 0;
   min-height:0;
   text-align:center;
   background-color:#2e2e2e;
