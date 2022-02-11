@@ -8,7 +8,7 @@ color: black
 <div class="card">
   <div class="card-header">#Voice Synthesis, #Voice Privacy, #Emotion </div>
   <div class="card-body">
-    <h7 class="card-title"> - Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants</h7>
+    <h7 class="card-title"> &#9673 Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants</h7>
     <a href="https://arxiv.org/abs/2007.15064" class="card-link">Paper</a>
     <a href="https://github.com/RanyaJumah/Emotionless_Privacy_Preserving_Speech_Analysis" class="card-link">Code</a>
   </div>
